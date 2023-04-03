@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    font-style: italic;
+    font-size: 14px;
+  }
+  
+  h1 {
+    color:black;
+    background-color: aqua;
+    font-style: normal;
+    text-align: center;
+    font-size: 36px;
+    margin-top: 50px;
+  }
+  
+  p {
+    color: black;
+    font-size: 18px;
+    line-height: 1.5;
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 500px;
+  }
+  .container {display: flex;
+  
+  align-items:center;
+  justify-content: left;
+  
+}
+
+  .center {
+
+    color:black;
+    background-color :white;
+    line-height: 1.5;
+    padding: 20px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .btn{
+    background-color: black;
+    color: white;
+    line-height: 1.5;
+    font-size: medium;
+  }
+  
